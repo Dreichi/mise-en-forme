@@ -35,7 +35,8 @@ body{
 }
 
 .entete{
-    background-color: hotpink;
+    padding: 10px;
+    background-color: blueviolet;
 }
 .colonnes {
     background-color: deepskyblue;
@@ -45,11 +46,18 @@ body{
 }
 .colonne_contenu {
     background-color: lightgreen;
+    padding:0px;
 }
 .pieddepage{
     background-color: lightgray;
 }
 
+.titre {
+    font-size: 0.8em;
+    color: aqua;
+}
 
-
+.slogan {
+    font-style: italic;
+}
 
