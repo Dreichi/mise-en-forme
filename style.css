@@ -80,7 +80,7 @@ h2 {
 
 strong {
     color: darkslategrey;
-    font: weight 100px;
+    font-weight:500;
 }
 
 em {
